@@ -137,8 +137,9 @@ High Level Flow Regarding Shared Codes Of Different Components:
 A. PyCharm Project :MQTT_PRODUCER
 prerequisite : 
 1. Need to install Python 3.11.1
-2. Need to install paho-mqtt 1.6.1
-3. Need to install protobuff 3.20.0
+2. Need to install PyCharm IDE
+3. Need to install paho-mqtt 1.6.1
+4. Need to install protobuff 3.20.0
 
 High-Level-Flow:
 1. Program flow starts from main.py(__name__ == '__main__')
@@ -167,8 +168,9 @@ High-Level-Flow:
 B. PyCharm Project :HiveMQ
 prerequisite : 
 1. Need to install Python 3.11.1
-2. Need to install paho-mqtt 1.6.1
-3. Need to install confluent_kafka 2.0.2
+2. Need to install PyCharm IDE
+3. Need to install paho-mqtt 1.6.1
+4. Need to install confluent_kafka 2.0.2
 
 High-Level-Flow:
 1. Program flow starts from main.py(__name__ == '__main__')
@@ -190,7 +192,8 @@ Please Note : If you want to run multiple HiveMqProducer clients, all should be 
 C. PyCharm Project :KafkaConsumer ( Optional to go through this project, since only used for unit testing purpose & to check intermediate flow)
 prerequisite : 
 1. Need to install Python 3.11.1
-2. Need to install confluent_kafka 2.0.2
+2. Need to install PyCharm IDE
+3. Need to install confluent_kafka 2.0.2
 
 High-Level-Flow:
 1. Program flow starts from main.py(__name__ == '__main__')
