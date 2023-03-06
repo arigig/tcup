@@ -1,0 +1,6 @@
+Sample Command to Execute :
+----------------------------
+1. Open command-prompt in Windows
+2. execute command: cd C:\Projjwal\Python_Projects\Executable_Files\KafkaConsumer\Consumer1
+3. execute command: KafkaConsumer --kafkagroup python-consumer --kafkahost localhost --kafkaport 9092 --kafkatopics first_topic --kafkasessionout 30000
+

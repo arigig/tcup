@@ -1,0 +1,5 @@
+Sample Command to Execute :
+----------------------------
+1. Open command-prompt in Windows
+2. execute command: cd C:\Projjwal\Python_Projects\Executable_Files\HiveProducer\Producer2
+3. execute command: HiveMQProducer --inputfile C:/Projjwal/Python_Projects/Executable_Files/HiveProducer/Producer2/Test_Data.txt --propertiesfile C:/Projjwal/Python_Projects/Executable_Files/HiveProducer/Producer2/Producer.properties
