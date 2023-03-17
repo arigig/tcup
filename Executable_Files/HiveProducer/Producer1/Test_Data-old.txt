@@ -1,3 +1,0 @@
-{"who":"derek1", "timeepoc":1558219613, "lat":-33.87034833, "lon":151.21389333, "alt":33.0, "batt":0, "speed":10.03}
-{"who":"derek2", "timeepoc":1558219625, "testfield":-33.89059833, "lon":151.21364167, "alt":33.0, "batt":0, "speed":9.96}
-{"who":"derek3", "timeepoc":1558219637, "lat":-33.87059167, "lon":151.21315667, "alt":32.0, "batt":0, "speed":10.02, "speed3":10.07}
